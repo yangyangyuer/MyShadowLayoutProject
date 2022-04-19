@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowLayout">
+        <attr name="shadowRange" format="dimension"></attr>
+        <attr name="shadowRangeOffset" format="dimension"></attr>
+        <attr name="shadowColor" format="color"></attr>
+
+        <attr name="shadowOffsetLeft"   format="dimension"></attr>
+        <attr name="shadowOffsetTop"    format="dimension"></attr>
+        <attr name="shadowOffsetRight"  format="dimension"></attr>
+        <attr name="shadowOffsetBottom" format="dimension"></attr>
+
+        <attr name="shadowRadius" format="dimension"></attr>
+        <attr name="shadowTopLeftRadius" format="dimension"></attr>
+        <attr name="shadowTopRightRadius" format="dimension"></attr>
+        <attr name="shadowBottomRightRadius" format="dimension"></attr>
+        <attr name="shadowBottomLeftRadius" format="dimension"></attr>
+
+
+        <attr name="solidColor" format="color"></attr>
+
+    </declare-styleable>
+</resources>
